@@ -1,1 +1,2 @@
-Exemple de création de fichier md avec Vim
+Exemple de crÃ©ation de fichier md avec Vim
+Modification depuis GitHub
